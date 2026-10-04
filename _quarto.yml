@@ -1,7 +1,7 @@
 project:
   type: website
 website:
-  title: "Evan Peng"
+  title: "Sara Oukajji"
   navbar:
     left:
       - href: index.qmd
