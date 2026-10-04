@@ -1,14 +1,12 @@
 project:
   type: website
-  resources:
-
 website:
   title: "Evan Peng"
   navbar:
     left:
       - href: index.qmd
         text: Home
-        
+
 format:
   html:
     theme:
