@@ -1,0 +1,30 @@
+project:
+  type: website
+  resources:
+    - "Peng_Evan_CV.pdf"
+    - "Peng_Evan_Transcript.pdf"
+    - CNAME
+
+website:
+  title: "Evan Peng"
+  site-url: "https://evanleepeng.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Projects
+      - href: notes.qmd
+        text: Notes
+      - href: photography.qmd
+        text: Photography
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+

@@ -1,0 +1,71 @@
+---
+title: "Evan Peng"
+toc: false
+image: images/headshot.jpg
+about:
+  id: intro
+  template: solana
+  image-width: 20em
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: mailto:elpeng@crimson.ua.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/evanleepeng/
+    - icon: file-text-fill
+      text: CV
+      href: Peng_Evan_CV.pdf
+---
+
+:::{#intro}
+I am a third year undergraduate student pursuing a B.S in physics and mathematics and a M.A in mathematics. My research interests lie in theoretical and mathematical physics. I am fascinated by symmetries and the underlying mathetmaical structure of physical theories, and I to broaden exposure in high energy and condensed matter theory. I plan on pursuing a PhD in theoretical physics.
+:::
+
+## Education
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[**The University of Alabama**]{style="font-size: 1.4em;"}
+:::
+
+::: {.column width="40%" .text-end}
+[*Tusaloosa, AL *]{style="font-size: 1.3em;"}
+:::
+
+::::
+
+**Bachelor of Science** in Physics and Mathematics\
+**Master of Arts** in Mathematics
+
+[Unofficial Transcript](Peng_Evan_Transcript.pdf){.btn .transcript-btn}
+
+<div style="margin-top: -8px;"></div>
+
+[**Relevant Coursework:**]{style="font-size: 1.1em;"}
+
+<div style="margin-top: -15px;"></div>
+
+* **Physics:** Quantum Mechanics(G), Classical Mechnics(G), Intro General Relativity, Electrodynamics
+* **Mathematics:** Measure Theory(G), Group Theory(G), Ring Theory(G), Real Analysis(G), Topology(G), Probability, Statistics, Stochastic Processes(G), Lienar Algebra, Differential Equations\
+* **Computation:** Machine Learning 
+
+<div style="margin-top: -14px;"></div>
+
+[*(G) indicates graduate level courses*]{style="font-size: 0.85em;"}
+
+<div style="margin-top: -35px;"></div>
+
+## Technical Skills:
+* **Computation:** Python(Pytorch, Numpy, Scipy), C/C++, Mathematica, R
+* **Tools:** LaTeX, Git, Bash, Zsh, Linux, macOS, Windows
+* **Languages:** English, Mandarin (Spoken at a native level)
+
+<div style="margin-top: -20px;"></div>
+
+## Beyond Physics:
+
+I love photography and filmmaking. Particularly, whenever I am on a trip, I love shooting travel photos on my Canon R10. I am no movie buff by any means, but I had always been interested in the process of movie making. I have a strong admiration for filmmakers who make their visions come to life. I personally love writing and shooting short films.
+
+I also love to cook unique and new dishes. I grew up eating the Chinese food that my parents made, but when I learned to cook, I learned from the western chefs on the internet. I was so interested by the differences in both the ingredients and techniques between these two different worlds of food, that I fell in love with creating new dishes combining both these worlds.
