@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sara Oukajji",
+    "section": "",
+    "text": "I am a first generation junior studying Mechanical Engineering at The University of Alabama with interests in rocket propulsion and combustion systems, autonomous aerospace systems, and machine learning. My experience spans both research and industry, including propulsion and cryogenic systems work at NASA Stennis Space Center, launch-vehicle transportation and engineering at United Launch Alliance, combustion and emissions-related engineering at Innovative Combustion Technologies, combustion and contrail research at The University of Alabama, and electric vehicle systems through Formula SAE. I am particularly interested in research that combines experimental engineering and autonomy methods to improve the reliability, safety, and performance of aerospace systems operating under uncertainty.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Resume\n  \n  \n    \n     Transcript"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sara Oukajji",
+    "section": "Education",
+    "text": "Education\n\n\nThe University of Alabama\n\nTusaloosa, AL \n\n\nBachelor’s of Science in Mechanical Engineering\n\n\n\n\nGPA: 3.84\n\nClubs: Formula SAE, Tuska UAV, Society of Women Engineers\nHonors: Dean’s List"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Sara Oukajji",
+    "section": "Technical Skills:",
+    "text": "Technical Skills:\n\nCAD: Siemens NX, SolidWorks, Creo, AutoCAD\nComputation: Python, SQL, Power BI\nElecgtrical: Altium Designer, BMS\nLanguages: English, Arabic, Berber\nCertifications: High Voltage, Microsoft Office Associate, L1 (High Power Rockets)"
+  },
+  {
+    "objectID": "index.html#beyond-engineering",
+    "href": "index.html#beyond-engineering",
+    "title": "Sara Oukajji",
+    "section": "Beyond Engineering",
+    "text": "Beyond Engineering\nOther interests Outside of engineering, I enjoy hiking, painting, poetry, and traveling. I like activities that give me a different way to think and create. Painting and poetry give me a creative outlet, while hiking and travel allow me to explore unfamiliar places and step away from structured technical work. I especially enjoy experiences that combine creativity and exploration. Whether I am working on an engineering problem, painting, or hiking somewhere new, I tend to be drawn to things that require curiosity, patience, and a willingness to see a problem or place from a different perspective."
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Experiences",
+    "section": "",
+    "text": "Transportation Engineering and Logistics Intern: Summer 2026\n\n\n\n\nDesigning and prototyping a quad-cutter protective lid assembly for a new quad-cutter design.\nDeveloping a Ground Support Equipment (GSE) tracking checklist for Vulcan hardware to improve accountability and asset visibility.\nCreating Power BI dashboards and an automated shipping calendar to streamline logistics planning and shipment tracking.\nSupporting transportation and handling operations for Vulcan/Atlas launch vehicle components and associated support equipment.\n\n\n\n\n\n\n\n\nMechanical Design and Analysis Intern: Spring 2026\n\n\n\n\nSupported propulsion and engine test operations through the design and analysis of mechanical and piping systems for cryogenic infrastructure.\nPerformed structural analysis for an $8M infrastructure project, developing solutions to protect instrumentation from loads up to 40,000 lbf.\nDeveloped and organized product structures for test stand systems, improving model accessibility and engineering efficiency\n\n\n\n\n\n\nData Analysis Intern: Spring 2026\n\n\nDesigned and analyzed combustion-related components to improve power system efficiency.\nAssisted in developing tools to predict SO₃ formation and support operational decision-making.\nPrepared technical documentation and reports for engineering reviews and research activities."
+  },
+  {
+    "objectID": "work.html#work-experience",
+    "href": "work.html#work-experience",
+    "title": "Experiences",
+    "section": "",
+    "text": "Transportation Engineering and Logistics Intern: Summer 2026\n\n\n\n\nDesigning and prototyping a quad-cutter protective lid assembly for a new quad-cutter design.\nDeveloping a Ground Support Equipment (GSE) tracking checklist for Vulcan hardware to improve accountability and asset visibility.\nCreating Power BI dashboards and an automated shipping calendar to streamline logistics planning and shipment tracking.\nSupporting transportation and handling operations for Vulcan/Atlas launch vehicle components and associated support equipment.\n\n\n\n\n\n\n\n\nMechanical Design and Analysis Intern: Spring 2026\n\n\n\n\nSupported propulsion and engine test operations through the design and analysis of mechanical and piping systems for cryogenic infrastructure.\nPerformed structural analysis for an $8M infrastructure project, developing solutions to protect instrumentation from loads up to 40,000 lbf.\nDeveloped and organized product structures for test stand systems, improving model accessibility and engineering efficiency\n\n\n\n\n\n\nData Analysis Intern: Spring 2026\n\n\nDesigned and analyzed combustion-related components to improve power system efficiency.\nAssisted in developing tools to predict SO₃ formation and support operational decision-making.\nPrepared technical documentation and reports for engineering reviews and research activities."
+  },
+  {
+    "objectID": "work.html#extracurriculars",
+    "href": "work.html#extracurriculars",
+    "title": "Experiences",
+    "section": "Extracurriculars",
+    "text": "Extracurriculars\n\nUniversity of Alabama Compact Muon Solenoid Group\nResearch Assistant: Aug 2026 - Present\n\n\n\nControls and Autonomy Lab\nResearch Assistant: Aug 2026 - Present\n\n\n\nFuels and Combustion Lab\n\n\n\nResearch Assistant: Aug 2025 - May 2026\n\n\nConducted research on aircraft contrail formation and atmospheric impacts, analyzing factors affecting condensation.\nAssisted in the design and development of a laboratory prototype to generate and study contrails under controlled conditions for experimental testing.\n\n\n\nFormula SAE\n\n\n\nTractive System Lead: Aug 2024 - March 2026\n\n\nHelped launch the team’s first-ever electric vehicle entry, taking on the challenge of starting from zero with no prior EV system in place.\nIntegrated BMS and shutdown circuit, including precharge, contactors, IMD, and TSAL per FSAE rules."
+  }
+]
