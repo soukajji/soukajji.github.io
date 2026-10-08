@@ -43,8 +43,7 @@ I am a first generation junior studying Mechanical Engineering at The University
 <div style="margin-top: -12px;"></div>
 
 * **GPA**: 3.84\
-* **Clubs**: Formula SAE, Tuska UAV, Society of Women Engineers
-* **Honors**: Dean's List
+* **Honors/Professional Memberships**: Dean's List, Kroger Scholar, Society of Women Engineers, American Society of Mechanical Engineers
 
 ## Technical Skills:
 * **CAD:** Siemens NX, SolidWorks, Creo, AutoCAD
