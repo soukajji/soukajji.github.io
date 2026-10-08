@@ -1,17 +1,23 @@
 project:
   type: website
+  resources:
+    - "resume.pdf"
+    - "transcript.pdf"
 website:
   title: "Sara Oukajji"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: work.qmd
+        text: Experiences
+      - href: beyond.qmd
+        text: Beyond Engineering
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      - darkly
     css: styles.css
     toc: false
 

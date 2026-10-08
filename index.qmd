@@ -1,10 +1,10 @@
 ---
 title: "Sara Oukajji"
 toc: false
-image: images/headshot.jpg
+image: images/headshot.jpeg
 about:
   id: intro
-  template: solana
+  template: jolla
   image-width: 20em
   links:
     - icon: envelope-fill
@@ -13,4 +13,49 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/sara-oukajji/
+    - icon: file-text-fill
+      text: Resume
+      href: resume.pdf
+    - icon: file-text-fill
+      text: Transcript
+      href: transcript.pdf
 ---
+:::{#intro}
+I am a first generation junior studying Mechanical Engineering at The University of Alabama with interests in rocket propulsion and combustion systems, autonomous aerospace systems, and machine learning. My experience spans both research and industry, including propulsion and cryogenic systems work at NASA Stennis Space Center, launch-vehicle transportation and engineering at United Launch Alliance, combustion and emissions-related engineering at Innovative Combustion Technologies, combustion and contrail research at The University of Alabama, and electric vehicle systems through Formula SAE. I am particularly interested in research that combines experimental engineering and autonomy methods to improve the reliability, safety, and performance of aerospace systems operating under uncertainty.
+:::
+
+## Education
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[**The University of Alabama**]{style="font-size: 1.4em;"}
+:::
+
+::: {.column width="40%" .text-end}
+[*Tusaloosa, AL *]{style="font-size: 1.3em;"}
+:::
+
+::::
+
+**Bachelor's of Science** in Mechanical Engineering
+
+<div style="margin-top: -12px;"></div>
+
+* **GPA**: 3.84\
+* **Clubs**: Formula SAE, Tuska UAV, Society of Women Engineers
+* **Honors**: Dean's List
+
+## Technical Skills:
+* **CAD:** Siemens NX, SolidWorks, Creo, AutoCAD
+* **Computation:** Python, SQL, Power BI
+* **Elecgtrical:** Altium Designer, BMS
+* **Languages:** English, Arabic, Berber
+* **Certifications:** High Voltage, Microsoft Office Associate, L1 (High Power Rockets)
+
+
+## Beyond Engineering
+
+Other interests
+Outside of engineering, I enjoy hiking, painting, poetry, and traveling. I like activities that give me a different way to think and create. Painting and poetry give me a creative outlet, while hiking and travel allow me to explore unfamiliar places and step away from structured technical work.
+I especially enjoy experiences that combine creativity and exploration. Whether I am working on an engineering problem, painting, or hiking somewhere new, I tend to be drawn to things that require curiosity, patience, and a willingness to see a problem or place from a different perspective.
