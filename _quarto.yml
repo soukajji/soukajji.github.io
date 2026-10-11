@@ -3,6 +3,7 @@ project:
   resources:
     - "resume.pdf"
     - "transcript.pdf"
+    - "google6e811521e4952a84.html"
 website:
   title: "Sara Oukajji"
   navbar:

@@ -1,8 +1,5 @@
 ---
 title: "Sara Oukajji"
-format:
-  html:
-    include-in-header: google6e811521e4952a84.html
 toc: false
 image: images/headshot.jpeg
 about:
